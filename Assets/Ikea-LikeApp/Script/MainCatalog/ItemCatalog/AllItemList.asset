@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2f1a7d969b7b84d96ee7a76ce94c92, type: 3}
+  m_Name: AllItemList
+  m_EditorClassIdentifier: 
+  listOfItem:
+  - id: 0
+    itemImage: {fileID: 21300000, guid: 10607dcf75bd041468306c5748235103, type: 3}
+    itemPrefabs: {fileID: 716515939153142092, guid: 398cb65d266be17429a67320a300213a, type: 3}
+    itemName: Chair
+    itemPrice: $102
+    itemDescription: Comfy chair, perfect to relax for a long time.
+    itemTag: 0
+  - id: 1
+    itemImage: {fileID: 21300000, guid: 0927d752a04c50a41a15cd22bf1cc71e, type: 3}
+    itemPrefabs: {fileID: 3414739873515715289, guid: 76773381f9058274fa427a9b0c370ff4, type: 3}
+    itemName: Clock
+    itemPrice: $50
+    itemDescription: It's a clock, it's tell time.
+    itemTag: 2
+  - id: 2
+    itemImage: {fileID: 21300000, guid: 620456c0ae5764060a471cd1499fbcff, type: 3}
+    itemPrefabs: {fileID: 1600569432573644018, guid: e83eff772f4014508aefd8998ccd5e77, type: 3}
+    itemName: Gaming Chair
+    itemPrice: $299
+    itemDescription: Comfy chair for gaming, perfect for long hour gaming.
+    itemTag: 0
+  - id: 3
+    itemImage: {fileID: 21300000, guid: 097101136d36645daa9b5f663f63aebf, type: 3}
+    itemPrefabs: {fileID: 1752422762440004966, guid: 9b2de9d23ecb64531bc04b73ce379875, type: 3}
+    itemName: High Back Chair
+    itemPrice: $399
+    itemDescription: High quality chair from best of the best material, Comfortable
+      to sit even sleep on it.
+    itemTag: 0
+  - id: 4
+    itemImage: {fileID: 21300000, guid: 00753959122314f119ea0b93d58bc584, type: 3}
+    itemPrefabs: {fileID: 8323142228905690761, guid: 5c38c2c306ec0f241adb8796b00000a1, type: 3}
+    itemName: Elephant
+    itemPrice: $40
+    itemDescription: The largest land-dwelling mammal on earth, at seven tons, scale
+      into small decoration for you to enjoy.
+    itemTag: 2
+  - id: 5
+    itemImage: {fileID: 21300000, guid: e87b46b2a4f008843a833ab0ea66ff82, type: 3}
+    itemPrefabs: {fileID: 5186431803172963939, guid: 4d2742f21490a7e4aa78e2aae9fa8662, type: 3}
+    itemName: Bird Painting
+    itemPrice: $699
+    itemDescription: Painting is an important form of visual art, bringing in elements
+      such as drawing, composition, gesture, narration, and abstraction. Where now
+      can be place in your wall to impress everyone.
+    itemTag: 2
+  - id: 6
+    itemImage: {fileID: 21300000, guid: b4110bc5dc9f56c4da136690a0ca7fa3, type: 3}
+    itemPrefabs: {fileID: 6399109773862178292, guid: 2ab0fcc34bdecf948addf0f8c7ed4d36, type: 3}
+    itemName: Pitcher
+    itemPrice: $199
+    itemDescription: A vessel to store your hydration need, or to show off you have
+      one of those.
+    itemTag: 2
+  - id: 7
+    itemImage: {fileID: 21300000, guid: 0fde67938decb45aa9ad03a4080c908f, type: 3}
+    itemPrefabs: {fileID: 2908328124232143155, guid: 6e77741d6914c41348b4711087322616, type: 3}
+    itemName: Snake Plant
+    itemPrice: $299
+    itemDescription: Despite called snake plant it will not crawl in your sleep,
+      but it does have a health benefits and look cool.
+    itemTag: 2
