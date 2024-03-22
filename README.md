@@ -1,5 +1,5 @@
-# SIA-Security-AR
-SIA Security AR for training the SIA securities.<br />
+# APPLikeIKEA
+App Like IKEA with AR using unity.<br />
 Unity version : 2022.3.13f1
 
 Assets included in the project :
